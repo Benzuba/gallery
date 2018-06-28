@@ -10,8 +10,8 @@ Apply for non-commercial API key https://www.flickr.com/services/apps/create/app
 Create a config.js file in the src directory with your Twitter keys/tokens like this:
 
 ```javascript
-const apiKey = 'YOUR API KEY';
-export default apiKey;
+const api_key = 'YOUR API KEY';
+export default api_key;
 
 module.exports = config;
 ```
