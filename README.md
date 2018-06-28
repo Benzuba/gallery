@@ -16,6 +16,8 @@ export default api_key;
 module.exports = config;
 ```
 
+run - npm install
+
 run - npm start
 
 then head on over to http://localhost:3000/
